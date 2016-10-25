@@ -15,6 +15,13 @@ html, body {
   padding: 0 10px;
 }
 
+.jumbotron {
+  height: 800px;
+  background: url() no-repeat center center;
+  background-size: contain;
+  background-color: black;
+}
+
 .nav {
   margin: 0;
   padding: 20px 0;
